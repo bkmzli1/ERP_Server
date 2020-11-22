@@ -1,0 +1,46 @@
+[
+  {
+    "balls": 0.0,
+    "user": {
+      "id": "5526de3a-1cc0-4edd-aed2-f61162924f42",
+      "name": "Илья Егорушкин",
+      "userpic": "https://lh3.googleusercontent.com/a-/AOh14GgIlDfBYojTlV9wjR2aa0yIXtoUH8irRaHngsZa=s96-c",
+      "email": "bkmzlitel@gmail.com",
+      "gender": null,
+      "locale": "ru"
+    }
+  },
+  {
+    "balls": 1.0,
+    "user": {
+      "id": "5526de3a-1cc0-4edd-aed2-f61162924f42",
+      "name": "Илья Егорушкин",
+      "userpic": "https://lh3.googleusercontent.com/a-/AOh14GgIlDfBYojTlV9wjR2aa0yIXtoUH8irRaHngsZa=s96-c",
+      "email": "bkmzlitel@gmail.com",
+      "gender": null,
+      "locale": "ru"
+    }
+  },
+  {
+    "balls": 2.0,
+    "user": {
+      "id": "5526de3a-1cc0-4edd-aed2-f61162924f42",
+      "name": "Илья Егорушкин",
+      "userpic": "https://lh3.googleusercontent.com/a-/AOh14GgIlDfBYojTlV9wjR2aa0yIXtoUH8irRaHngsZa=s96-c",
+      "email": "bkmzlitel@gmail.com",
+      "gender": null,
+      "locale": "ru"
+    }
+  },
+  {
+    "balls": 3.0,
+    "user": {
+      "id": "5526de3a-1cc0-4edd-aed2-f61162924f42",
+      "name": "Илья Егорушкин",
+      "userpic": "https://lh3.googleusercontent.com/a-/AOh14GgIlDfBYojTlV9wjR2aa0yIXtoUH8irRaHngsZa=s96-c",
+      "email": "bkmzlitel@gmail.com",
+      "gender": null,
+      "locale": "ru"
+    }
+  }
+]
